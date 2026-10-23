@@ -1,0 +1,3 @@
+@echo off
+echo Starting AuditSphere Dev Server...
+npm.cmd run dev
